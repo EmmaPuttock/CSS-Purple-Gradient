@@ -1,0 +1,30 @@
+<!DOCTYPEhtml>
+ <html>
+  <head>
+
+  <style type="text/css"> <!-- This is an Internal style sheet -->
+
+#background {
+    position: absolute; top: 0; left: 0; height: 100%; width: 100%;
+    border: 1px solid black;
+    height: 1000px;
+    
+    
+    background: -webkit-linear-gradient(left, #EED2EE, #CC99CC, #D8BFD8, #8B7B8B, #4F2F4F); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #EED2EE, #CC99CC, #D8BFD8, #8B7B8B, #4F2F4F); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #EED2EE, #CC99CC, #D8BFD8, #8B7B8B, #4F2F4F); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #EED2EE, #CC99CC, #D8BFD8, #8B7B8B, #4F2F4F); /* Standard syntax (must be last) */
+}
+
+  </style>
+  </head>
+
+    <body>
+      <div id="background"> 
+
+
+
+      </div> <!-- closing tag for the background div identity -->
+
+    </body>
+ </html>
